@@ -1,6 +1,7 @@
 # Snowflake Real-Time Data Warehouse Project
 
 This project demonstrates how to build a scalable, cloud-native data warehouse using **Snowflake**, integrated with **AWS S3** for data storage, **Snowpipe** for real-time data ingestion, and **AWS QuickSight** for visualization. The project processes **Tesla stock market data** (`TSLA.csv`) and **customer data** (`customer_detail.csv`) to create a robust data pipeline, showcasing Snowflake's architecture, data loading methods, and advanced features like Time Travel.
+![ProjectArchitectureDiagram](https://github.com/user-attachments/assets/1c1df414-dbe1-4545-aaff-3d0b8acbd25e)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
